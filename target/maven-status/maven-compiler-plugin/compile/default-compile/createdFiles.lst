@@ -1,0 +1,13 @@
+com/facugarbino/spacexteam/services/TrelloAPIService.class
+com/facugarbino/spacexteam/services/CardService.class
+com/facugarbino/spacexteam/controllers/CardController.class
+com/facugarbino/spacexteam/models/CardCreationRequest.class
+com/facugarbino/spacexteam/models/Issue.class
+com/facugarbino/spacexteam/SpacexteamApplication.class
+com/facugarbino/spacexteam/exceptions/InvalidRequestException.class
+com/facugarbino/spacexteam/exceptions/TrelloApiRequestException.class
+com/facugarbino/spacexteam/models/ApiResponse.class
+com/facugarbino/spacexteam/models/Task.class
+com/facugarbino/spacexteam/models/Card.class
+com/facugarbino/spacexteam/models/Bug.class
+com/facugarbino/spacexteam/models/TaskCategory.class

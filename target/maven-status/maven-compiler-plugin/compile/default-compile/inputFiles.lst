@@ -1,0 +1,13 @@
+/home/facu/spacexteam/src/main/java/com/facugarbino/spacexteam/exceptions/InvalidRequestException.java
+/home/facu/spacexteam/src/main/java/com/facugarbino/spacexteam/models/Task.java
+/home/facu/spacexteam/src/main/java/com/facugarbino/spacexteam/models/Issue.java
+/home/facu/spacexteam/src/main/java/com/facugarbino/spacexteam/models/Card.java
+/home/facu/spacexteam/src/main/java/com/facugarbino/spacexteam/models/TaskCategory.java
+/home/facu/spacexteam/src/main/java/com/facugarbino/spacexteam/services/CardService.java
+/home/facu/spacexteam/src/main/java/com/facugarbino/spacexteam/controllers/CardController.java
+/home/facu/spacexteam/src/main/java/com/facugarbino/spacexteam/models/CardCreationRequest.java
+/home/facu/spacexteam/src/main/java/com/facugarbino/spacexteam/models/ApiResponse.java
+/home/facu/spacexteam/src/main/java/com/facugarbino/spacexteam/exceptions/TrelloApiRequestException.java
+/home/facu/spacexteam/src/main/java/com/facugarbino/spacexteam/services/TrelloAPIService.java
+/home/facu/spacexteam/src/main/java/com/facugarbino/spacexteam/SpacexteamApplication.java
+/home/facu/spacexteam/src/main/java/com/facugarbino/spacexteam/models/Bug.java
